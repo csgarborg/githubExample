@@ -14,3 +14,6 @@
 *.mexa64
 *.mexmaci64
 *.mexw64
+
+# Others
+*.docx
